@@ -2,6 +2,7 @@
 A clone for AirBnB for ALX-Software engineering course
 
 The project contains the server side and the client side
+<br>
   *The server side we have:*
 - The console
 - The storage engines (JSON, MySQL) 
