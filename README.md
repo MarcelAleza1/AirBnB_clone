@@ -76,6 +76,6 @@ The following commands are supported:
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Dirac156](https://github.com/MarcelAleza1) - Mazi Essoloani Aleza
-- [@Emmastro](https://github.com/jose2k24) - Joseph Endale
+- [@MarcelAleza1](https://github.com/MarcelAleza1) - Mazi Essoloani Aleza
+- [@jose2k24](https://github.com/jose2k24) - Joseph Endale
  
