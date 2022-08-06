@@ -16,16 +16,6 @@ The project contains the server side and the client side
 
 Python3
 
-### Installing
-
-Clone this repository
-
-```
-git clone git@github.com:MarcelAleza1/AirBnB_clone.git
-cd AirBnB_clone
-./console.py
-```
-
 <!-- $ ./console.py
 ``` -->
 
