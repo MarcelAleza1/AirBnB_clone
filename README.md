@@ -18,16 +18,16 @@ Python3
 
 ### Installing
 
-Clone this reposito
+Clone this repository
 
 ```
-git clone git@github.com:Emmastro/AirBnB_clone.git
+git clone git@github.com:MarcelAleza1/AirBnB_clone.git
 cd AirBnB_clone
 ./console.py
 ```
 
-$ ./console.py
-```
+<!-- $ ./console.py
+``` -->
 
 The following commands are supported:
 
