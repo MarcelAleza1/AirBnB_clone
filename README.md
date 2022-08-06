@@ -74,7 +74,9 @@ The following commands are supported:
 ### quit:
   Quit the shell 
 
+
 ## ✍️ Authors <a name = "authors"></a>
+
 
 - [@MarcelAleza1](https://github.com/MarcelAleza1) - Mazi Essoloani Aleza
 - [@jose2k24](https://github.com/jose2k24) - Joseph Endale
