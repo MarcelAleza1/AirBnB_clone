@@ -18,16 +18,16 @@ Python3
 
 ### Installing
 
-Clone this reposito
+Clone this repository
 
 ```
-git clone git@github.com:Emmastro/AirBnB_clone.git
+git clone git@github.com:MarcelAleza1/AirBnB_clone.git
 cd AirBnB_clone
 ./console.py
 ```
 
-$ ./console.py
-```
+<!-- $ ./console.py
+``` -->
 
 The following commands are supported:
 
@@ -74,7 +74,9 @@ The following commands are supported:
 ### quit:
   Quit the shell 
 
+
 ## ✍️ Authors <a name = "authors"></a>
+
 
 - [@MarcelAleza1](https://github.com/MarcelAleza1) - Mazi Essoloani Aleza
 - [@jose2k24](https://github.com/jose2k24) - Joseph Endale
